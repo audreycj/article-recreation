@@ -14,5 +14,5 @@ Example: https://medium.com/the-ascent/7-things-you-should-try-never-to-do-in-th
 Do not try to copy the articles' html itself because it is very obvious, I will find out, and you will fail this quiz. 
 Write the code yourself using the concepts that I have taught in class.
 
-Put your HTML and CSS files in a zip file and submit them here![image](https://user-images.githubusercontent.com/68633976/215744663-d57ed621-5896-4a75-bff5-d052a3b8d9f5.png)
+Put your HTML and CSS files in a zip file and submit them.
 
