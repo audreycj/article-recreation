@@ -1,5 +1,8 @@
 # article-recreation
-This was a formative assessment for our IT103P (Web Programming) course during my 2nd year as a Computer Science student.
+live website: https://audreycj.github.io/article-recreation/
+
+This was our very first formative assessment for our IT103P (Web Programming) course during my 2nd year as a Computer Science student.
+
 We were given the following instructions:
 
 -------
